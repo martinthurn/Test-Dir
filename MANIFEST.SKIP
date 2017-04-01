@@ -6,11 +6,13 @@ bak$
 blib
 CVS
 diff$
+git
 (?i:ignore)
 (?i:junk)
 ^MANIFEST\.
 ^Makefile$
 ^Makefile.old$
+MYMETA
 \.Old
 \.orig$
 \bPages\b
