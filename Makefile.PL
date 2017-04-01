@@ -1,6 +1,8 @@
 
 # $Id: Makefile.PL,v 1.10 2012-03-07 03:23:27 Martin Exp $
 
+use lib '.';
+
 use inc::Module::Install;
 
 name     'Test-Dir';
