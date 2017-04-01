@@ -21,6 +21,7 @@ Patches
 ^phonetize$
 \.ps$
 \bRCS\b
+README.md
 semantic\.cache
 \.t?gz$
 \.trial$
