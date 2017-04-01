@@ -1,13 +1,11 @@
 
-# $Id: Dir.pm,v 1.14 2012-03-07 03:25:35 Martin Exp $
-
 package Test::Dir;
 
 use strict;
 use warnings;
 
-our
-$VERSION = do { my @r = (q$Revision: 1.14 $ =~ /\d+/g); sprintf "%d."."%03d" x $#r, @r };
+my
+$VERSION = 1.15;
 
 use base qw( Exporter Test::Dir::Base );
 
