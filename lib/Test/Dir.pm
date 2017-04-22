@@ -4,8 +4,8 @@ package Test::Dir;
 use strict;
 use warnings;
 
-my
-$VERSION = 1.15;
+our
+$VERSION = 1.16;
 
 use base qw( Exporter Test::Dir::Base );
 
